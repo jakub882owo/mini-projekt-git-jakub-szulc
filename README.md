@@ -4,12 +4,12 @@
 
 ## Autor
 
-Imię i nazwisko: ........................................
-Klasa / grupa: ..........................................
+Imię i nazwisko: Jakub Szulc
+Klasa / grupa: 4TP
 
 ## Cel projektu
 
-Napisz własnymi słowami, po co powstał projekt i czego uczysz się podczas pracy z Git oraz GitHub.
+Powtórka pracy z git i GitHub oraz pracy na repozytorium lokalnym i zdalnym.
 
 ## Opis projektu
 
@@ -41,6 +41,22 @@ Mini projekt jest prostą stroną/notesem o nauce Gita. Zawiera pliki HTML, CSS,
 
 W repozytorium ma być co najmniej 10 commitów. W tym miejscu opisz krótko, co zostało wykonane na poszczególnych branchach.
 
+## Dodatkowy opis do README
+
+Uzupełnij tę sekcję własnymi słowami i wklej ją do głównego pliku `README.md`.
+
+### Czego dotyczy projekt?
+
+Projekt dotyczy ćwiczenia historii zmian, pracy na branchach i publikacji repozytorium na GitHub.
+
+### Moje najważniejsze komendy
+
+git init - tworzy repozytorium
+git add - dodaje zmiany do commita
+git commit - zapisuje zmiany
+git push - aktualizuje repozytorium zdalne
+git switch - zmienia branch
+
 ## Link do repozytorium
 
-Wklej link do publicznego repozytorium GitHub: ........................................
+Wklej link do publicznego repozytorium GitHub: https://github.com/jakub882owo/mini-projekt-git-jakub-szulc

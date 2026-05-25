@@ -8,4 +8,8 @@ Projekt dotyczy ćwiczenia historii zmian, pracy na branchach i publikacji repoz
 
 ### Moje najważniejsze komendy
 
-Wypisz tutaj 5-8 komend Git, których użyto w projekcie, i wyjaśnij każdą jednym zdaniem.
+git init - tworzy repozytorium
+git add - dodaje zmiany do commita
+git commit - zapisuje zmiany
+git push - aktualizuje repozytorium zdalne
+git switch - zmienia branch
