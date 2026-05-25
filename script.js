@@ -8,3 +8,5 @@ function updateProgress() {
 
 tasks.forEach((task) => task.addEventListener('change', updateProgress));
 updateProgress();
+
+console.log('Mini projekt Git działa poprawnie.');
