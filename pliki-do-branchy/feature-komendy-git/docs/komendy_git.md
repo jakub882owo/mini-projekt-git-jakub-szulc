@@ -1,5 +1,6 @@
 # Lista komend Git użytych w projekcie
 
+
 | Komenda | Zastosowanie |
 |---|---|
 | `git init` | tworzy lokalne repozytorium |
